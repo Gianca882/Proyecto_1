@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Comparator.cpp
+  Iterator.cpp
+  LinkedList.cpp
+  ordenamiento.cpp
+  Playlist.cpp
+C:\Users\Giancarlo\Downloads\Project 1 (2)\Project 1\Playlist.cpp(94,13): warning C4099: 'Playlist::Node': nombre de tipo visto anteriormente usando 'class' ahora se ve usando 'struct'
+C:\Users\Giancarlo\Downloads\Project 1 (2)\Project 1\Playlist.h(6): message : vea la declaración de 'Playlist::Node'
+  Project 1.cpp
+  Reciente.cpp
+C:\Users\Giancarlo\Downloads\Project 1 (2)\Project 1\Reciente.cpp(95,13): warning C4099: 'Reciente::Node': nombre de tipo visto anteriormente usando 'class' ahora se ve usando 'struct'
+C:\Users\Giancarlo\Downloads\Project 1 (2)\Project 1\Reciente.h(6): message : vea la declaración de 'Reciente::Node'
+  Generando código...
+C:\Users\Giancarlo\Downloads\Project 1 (2)\Project 1\Playlist.cpp(108): warning C4715: 'Playlist::GetItem': no todas las rutas de acceso de control devuelven un valor
+  .NETFramework,Version=v4.8.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project 1.vcxproj -> C:\Users\Giancarlo\Downloads\Project 1 (2)\Project 1\x64\Debug\Project 1.exe

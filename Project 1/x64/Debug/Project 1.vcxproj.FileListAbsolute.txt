@@ -1,0 +1,6 @@
+D:\visual studi\Project 1\x64\Debug\Project 1.vcxproj.AssemblyReference.cache
+D:\visual studi\Project 1\x64\Debug\Project 1.vcxproj.SuggestedBindingRedirects.cache
+D:\visual studi\Project 1\x64\Debug\Project 1.exe
+C:\Users\Giancarlo\Downloads\Project 1 (2)\Project 1\x64\Debug\Project 1.vcxproj.AssemblyReference.cache
+C:\Users\Giancarlo\Downloads\Project 1 (2)\Project 1\x64\Debug\Project 1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Giancarlo\Downloads\Project 1 (2)\Project 1\x64\Debug\Project 1.exe
